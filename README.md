@@ -1,4 +1,5 @@
-- **KODLUYORUZ İLK REPO**
+# **KODLUYORUZ İLK REPO**
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 lorem ipsum
