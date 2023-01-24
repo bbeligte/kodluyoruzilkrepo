@@ -4,18 +4,18 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 lorem ipsum
 
-= **INTALLATION**
+**INTALLATION**
 
 > Talimatlar
 
-= **USAGE**
+**USAGE**
 
 > Kullanım
 
-= **CONTRIBUTING**
+**CONTRIBUTING**
 
 > Katkı sağlama
 
-= **LICENCE**
+**LICENCE**
 
 [MIT](https://www.kodluyoruz.org/)
